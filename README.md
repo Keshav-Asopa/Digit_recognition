@@ -5,6 +5,9 @@ The data set used for this problem is from the populat MNIST data set. Developed
 Christopher Burger for evaluating machine learning model on the handwritten digit classification problem. 
 It is a widely used data set in the machine learning community.
 
-for more detail about the dataset visit the dataset folder in this repository.
+This dataset contain 70000 images of digits 28*28 pixels
+train contain 49000 images
+test contain 21000 images
+while csv files contain 2 columns with image name and label
 
 
